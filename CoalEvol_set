@@ -1,0 +1,18 @@
+#used run parameters of CoalEvol (different mutation rate and Ne)
+1st run
+```'/home/uliana/Загрузки/CoalEvol-7.3.5/exe/CoalEvol7.3.5_Linux' -n10 -s5 1139 -e1000 2 -f4 0.3 0.1 0.2 0.2 -u0.001 -xseqGMRCA -bseqs```
+
+2nd
+```'/home/uliana/Загрузки/CoalEvol-7.3.5/exe/CoalEvol7.3.5_Linux' -n10 -s5 1139 -e10000 2 -f4 0.3 0.1 0.2 0.2 -u0.001 -xseqGMRCA -bseqs```
+
+3d 
+```'/home/uliana/Загрузки/CoalEvol-7.3.5/exe/CoalEvol7.3.5_Linux' -n10 -s5 1139 -e1000 2 -f4 0.3 0.1 0.2 0.2 -u0.00001 -v1 2.5 -xseqGMRCA -bseqs```
+
+4
+```'/home/uliana/Загрузки/CoalEvol-7.3.5/exe/CoalEvol7.3.5_Linux' -n10 -s5 1139 -e10000 2 -f4 0.3 0.1 0.2 0.2 -u0.0001 -xseqGMRCA -bseqs```
+
+5
+```'/home/uliana/Загрузки/CoalEvol-7.3.5/exe/CoalEvol7.3.5_Linux' -n10 -s5 1139 -e5000 2 -f4 0.3 0.1 0.2 0.2 -u0.00005 -xseqGMRCA -bseqs```
+
+6
+```'/home/uliana/Загрузки/CoalEvol-7.3.5/exe/CoalEvol7.3.5_Linux' -n10 -s5 1139 -e5000 2 -f4 0.3 0.1 0.2 0.2 -u0.00005 -xseqGMRCA -bseqs```
